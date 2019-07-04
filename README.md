@@ -4,3 +4,5 @@
 https://github.com/YayoYY/2019-Paipaidai4th
 
 https://github.com/FutureHasCome/paipaidai_competition
+
+https://github.com/alwayswaime/paipaidai
