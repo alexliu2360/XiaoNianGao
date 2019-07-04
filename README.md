@@ -6,3 +6,7 @@ https://github.com/YayoYY/2019-Paipaidai4th
 https://github.com/FutureHasCome/paipaidai_competition
 
 https://github.com/alwayswaime/paipaidai
+
+https://github.com/dmlan/ppd_2019
+
+https://github.com/Excuses123/paipai
